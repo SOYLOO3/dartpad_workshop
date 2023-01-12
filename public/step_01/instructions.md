@@ -3,11 +3,12 @@
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/zSbsIiluixw"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
+  src="//player.bilibili.com/player.html?aid=692582135&bvid=BV1A24y1v725&cid=959667007&page=1"
+  scrolling="no"
+  border="0"
+  frameborder="no"
+  framespacing="0"
+  allowfullscreen="true">
 </iframe>
 
 Flutter Codelab
