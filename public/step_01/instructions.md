@@ -1,8 +1,6 @@
 # Step 1
 
 <iframe
-  width="560"
-  height="315"
   src="//player.bilibili.com/player.html?aid=692582135&bvid=BV1A24y1v725&cid=959667007&page=1"
   scrolling="no"
   border="0"
